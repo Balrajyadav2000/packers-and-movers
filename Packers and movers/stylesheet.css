@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Anta&display=swap');
+*{
+    padding: 0;
+    margin: 0;
+
+}
+
+#font{
+   
+    font-family: "Anta", sans-serif;
+  
+}
+
+.anta-regular {
+    font-family: "Anta", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+  .second{
+    background-color: rgb(75, 75, 229);
+  }
+  .abc{
+    font-family: "Anta", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    display: flex;
+    justify-content: center;
+    list-style-type: none;
+    text-decoration: none;
+   
+  }
+  a{
+    text-decoration: none;
+    color: aliceblue;
+    font-family: "Anta", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+  .footer2{
+    background-color: rgb(250, 172, 27);
+    display: felx;
+  }
+  .para{
+    display: flex;
+    text-align: justify;
+    
+    
+  }
+
+  #image{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    width: 141x;
+    height: auto;
+  }
+.section2{
+  color:#f88d41;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
